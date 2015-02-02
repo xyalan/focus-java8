@@ -6,5 +6,5 @@ package com.hialan.defmethod;
  * Date: 1/26/15 23:47
  */
 public interface Cache {
-	
+
 }
